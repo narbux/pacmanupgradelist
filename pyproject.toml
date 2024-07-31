@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "pacmanupgradelist"
-version = "1.0.0"
+version = "1.1.0"
 description = "List the latest pacman upgrades and show them in a nice table"
 authors = ["Marnix Enthoven <mail@marnixenthoven.nl>"]
 repository = "https://github.com/narbux/pacmanupgradelist"
